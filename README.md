@@ -1,2 +1,2 @@
-# quantum-algorithms-for-convex-optimization
-Research on Quantum Algorithms for Convex Optimization and related applications
+# Quantum Algorithms for Convex Optimization
+Research on Applications of Quantum Computing in Convex Optimization Problems
